@@ -2,7 +2,7 @@
 - [**keepass网站**](https://keepass.info/plugins.html#traytotp)
 - [**github开源网站下载**](https://github.com/victor-rds/KeeTrayTOTP/releases)
 - [**旧版本**](https://sourceforge.net/projects/traytotp-kp2/)
-	- <a href="#锚点1">**1、添加两步验证**</a>
+	- <a href="#锚点1">**1、添加TOTP一次性密码**</a>
 	- <a href="#锚点2">**2、进入插件选项设置《默认设置》**</a>
 	- <a href="#锚点3">**设置和使用流程**</a>
 
